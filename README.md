@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalaris</h1>
 <h3 align="center">Software Developer, Game Developer</h3>
 
-- 🌱 I’m currently learning **Web Development**
+I’m currently learning **Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
